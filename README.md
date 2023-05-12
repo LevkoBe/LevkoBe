@@ -12,7 +12,7 @@
   3. And finally program writes five recommendations for each misspelled word.
 
 Example of work:
-![alt text](https://photos.google.com/search/_tra_/photo/AF1QipPfEvxRdcS2pt0pd6tzgGFlmV_3b0oLxyuc14JD "That's it")
+![alt text](https://photos.google.com/photo/AF1QipNrp8hb9yE6RR4LQKJMSj782qrKzJdC24WgVPI8 "That's it")
 <!--
 **LevkoBe/LevkoBe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
