@@ -14,7 +14,7 @@ The program works on the entered sentence in the following way:
 
 Example of the work:
 
-![alt text](https://lh3.googleusercontent.com/pw/AJFCJaWxuS9sW1EhislIvcqfHT17SWfiubTz6-id-ySMthDqy4fneF5t0wpmeTHIQ9nSxKhzECLrRf6bHuHq_07pzxDJr4ilVbnfe9BZekfZJoDCcmumtL5uQvpJnoHn0DuHwTPipUpBSL8KWyjifboJbXiJLugd1VeSY_oMSWSCApN_90h43kgkG13mWxLyy1V994nPMdvz97GaHOsqy2BMir7WQhB_OOk2n7dk28Xr0k7mpzE0-JL2wq-p5ztVKVW-yfgi3tgri74EpF_4fhUAKSFRcpXfShuUkhSws-YLwkQYJ-LRENlQ5yu3oUlpGbTDUq0D3wPaNpuejkESmTyscMs9y6StcUbsDZD_R9iTCcbxTMRQ_-mBU-_y3YsA7ndNlmaV8bwVRx9WuJ4PTTRGCsT5r9gssfIwz2WiSylr_8x-GJ287Q-oL5qE_8OGz0LY7BHGVDFZ5wggRfEJf5Ab8A0-tG6bBCUZk7__EEhgRxc7Kn2EYGcXhW2mWu0McyRSfIgM5RRfbReuhJhz3BJQiQjn1UBU_VcDgh7be4lpr9Lk4AZpBGCo0bXYUSGjw2YQbS8tfj31qm-pS5S19ypMg--lrOEPcZFjLHPPqNtPEymAOJqEN0--2pn5CBQN2kz2BQTGGMWnFIL327tRX0ccTPFyIH2Kr0XCUOJaTKENdgv6LKKfkc1Wwd5pvYlIzKAQkPzXNVjMpghR-l5hgrtMuPUHLO1fFM8A4ofzhs100qNYKqGpImF0I0SAuIVn9nO1m_ShYhpDm-6HnGNJOSQF4PdpiKOKiWnAfuQgLIwDBOmn_m0qAQY6wwpmu75YYn460KywZHb-JX22HlXpeQoAWZGyM4TBUX194VAY7Eg6ys9VuDIu-k3gTRbMM17Or6dkVkWs9vUrU0W8weSOfrhv5g=w732-h375-s-no?authuser=0 "T")
+![alt text](https://res.cloudinary.com/dcxd4mjy0/image/upload/v1684241975/example1_wsatpm.png "T")
 >Longest common substring, longest common subsequence and Levenshtein algorithms are only three examples of problems solved by Dynamic Programming, which is very exciting at least because of its way of managing some difficult problems in easy and interesting way! 
 
 ## 2. The second code I'll talk a little about is "Huffman coding"
