@@ -3,7 +3,7 @@
 #### Here you can see a brief summary of some programs I've worked on during previous year of studying at "Kyiv School of Economics". So it can be my own work, or assignment, completed with a partner. Anyway, I have a complete understanding of the code, i.e., all algorithms, data structures, LINQ expressions etc.
 
 ### Recently I've written a program that implements chat application in C++ using TCP connection with sockets
-The link to the application with further description of it is [here](https://github.com/LevkoBe/GroupChat/blob/master/README.md). And one small screenshot of it:
+The link to the application with further description of it is [here](https://github.com/LevkoBe/GroupChat/blob/master/README.md). And one small screenshot of how it works:
 ![image](https://github.com/LevkoBe/LevkoBe/assets/118983753/285af220-3440-4f9a-ac1e-c3e44165caf5)
 
 
