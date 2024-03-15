@@ -2,11 +2,11 @@
 
 #### Here you will see a summary of some programs I've worked on during the last two years of studying at the University "Kyiv School of Economics". So it can be my work, or assignments, completed with a partner. In any case, I have a thorough understanding of the code, i.e., all algorithms, data structures, etc.
 
-### Recently I've written a program that implements chat application in C++ using TCP connection with sockets
-The link to the application with further description of it is [here](https://github.com/LevkoBe/GroupChat/blob/master/README.md). One small screenshot of how it works:
+## Recently I've written a program that implements [chat application](https://github.com/LevkoBe/GroupChat) in C++ using TCP connection with sockets
+The link to the application with further description of it is here. One small screenshot of how it works:
 ![image](https://github.com/LevkoBe/LevkoBe/assets/118983753/285af220-3440-4f9a-ac1e-c3e44165caf5)
 
-## 1. Before that, I implemented code for the [Tanks game](https://github.com/LevkoBe/TanksGame.git):
+## Before that, I implemented code for the [Tanks game](https://github.com/LevkoBe/TanksGame):
 
 This game is a tank battle game where players control a tank and engage in combat with enemy tanks while navigating through a maze-like environment. The objective is to defeat all enemy tanks and clear the level.
 
