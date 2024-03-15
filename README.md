@@ -47,7 +47,7 @@ In this assignment, the task was to create such a data structure as a dictionary
 We can ultimately create a dictionary.
 Its key features are a constant time of finding, deleting, and in most cases even adding elements. It's because all we need is to calculate the hash of our key and we immediately get the number of the bucket where our value should be. But sometimes we need to increase the number of buckets, and then all our key-value pairs have to get another hash, so the time complexity becomes linear, as we need to recalculate the hash for all N keys. 
 
-#### There are many more left to be documented. But for now, these are all that I have here.
+#### There are many more programs left to be documented. But for now, these are all that I have here.
 <!--
 **LevkoBe/LevkoBe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
