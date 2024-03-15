@@ -12,7 +12,7 @@ This game is a tank battle game where players control a tank and engage in comba
 
 https://github.com/LevkoBe/TanksGame/assets/118983753/9b19883a-1db3-428c-90e8-cea0679d55d5
 
-### Next, an assignment that I did with Ivan Solomatin in the first year of study in Kyiv School of Economics: misspelling corrector.
+### Next, an assignment that I did with Ivan Solomatin in the first year of study in Kyiv School of Economics: misspelling corrector. (C#)
 
 The idea is simple: the user enters some text, the program works on it and gives suggestions for misspelled words.
 For doing this program needs some correct words, in my case, it's a SCOWL (Spell Checker Oriented Word List) with 168065 words in it.
@@ -27,7 +27,7 @@ Example of the work:
 ![alt text](https://res.cloudinary.com/dcxd4mjy0/image/upload/v1684241975/example1_wsatpm.png "Correcting mistakes")
 >Longest common substring, longest common subsequence, and Levenshtein algorithms are only three examples of problems solved by Dynamic Programming, which is very exciting at least because of its way of managing some difficult problems easily and interestingly! 
 
-## The second code I'll talk a little about is "Huffman coding"
+## Another code I'll talk a little about is ["Huffman coding"](https://github.com/LevkoBe/assignment_4_Huffman_coding) (C#)
 And I must say, I love that one! It's another way to write files, where each sign and each letter may have a different number of digits. At first, it sounded strange, but it isn't!
 Huffman coding's idea is the next: to reduce the size of a given file we can code each letter not by 8, but with 7, 6, or even 1 bit, depending on how often this letter appears in the file.
 Here is a short explanation of how the program works:
@@ -38,7 +38,7 @@ Here is a short explanation of how the program works:
 ![alt text](https://res.cloudinary.com/dcxd4mjy0/image/upload/v1684405820/ex2_rrzg1g.png "Work with a file")
 >The way of making smaller codes to letter names is prefix coding and it works because each character has its unique code, its own "place in a tree".
 
-## Realization of hash tables
+## Realization of [hash tables](https://github.com/LevkoBe/Assignment3_dictionary) (C#)
 In this assignment, the task was to create such a data structure as a dictionary to acquire a better understanding of how they work. After implementing the next structures and functions:
   1. Key-value pair;
   2. Linked list;
